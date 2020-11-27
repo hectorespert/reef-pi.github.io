@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/reef-pi/reef-pi.github.io)
+
 ## reef-pi Website
 
 This is repository contains the official documentation for [reef-pi](http://reef-pi.com).
