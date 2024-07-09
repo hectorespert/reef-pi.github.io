@@ -73,3 +73,5 @@ Temperature controller equipment usage chart:
 
 5. **Controller health**: This chart shows past seven days CPU and Memory usage of the controller. We recommend to run reef-pi under 1/3rd of the CPU/Memory usage. i.e. For Raspberry Pi 3 based controller normal CPU usage should not go above 0.3 and normal Memory usage should not go above 300 MB. This gives enough room for scenarios when the controller has to work harder, even with double workload, it will have 1/3rd of spare cpu/memory. Usually CPU and memory is usage increases with individual subsystem being enabled, higher number of equipment being controlled or higher frequency of sensor checks.
 ![health chart](/img/telemetry/health-chart.png)
+
+### Grafana Cloud
